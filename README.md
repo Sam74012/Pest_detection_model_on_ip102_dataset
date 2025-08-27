@@ -29,7 +29,3 @@ Jupyter Notebook / Colab
 IP102 Dataset: https://github.com/xpwu95/IP102
 
 Latest Research Benchmark: Frontiers in Plant Science, 2025
-
-IP102 Dataset: https://github.com/xpwu95/IP102
-
-Latest Research Benchmark: Frontiers in Plant Science, 2025
