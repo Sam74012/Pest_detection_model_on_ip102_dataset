@@ -29,3 +29,5 @@ Jupyter Notebook / Colab
 IP102 Dataset: https://github.com/xpwu95/IP102
 
 Latest Research Benchmark: Frontiers in Plant Science, 2025
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sam74012/Climate_impact_on_crop_production/blob/main/Climate_impact_on_crop_production.ipynb)
