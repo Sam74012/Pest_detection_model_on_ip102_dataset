@@ -30,4 +30,5 @@ IP102 Dataset: https://github.com/xpwu95/IP102
 
 Latest Research Benchmark: Frontiers in Plant Science, 2025
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sam74012/Climate_impact_on_crop_production/blob/main/Climate_impact_on_crop_production.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sam74012/Pest_detection_model_on_ip102_dataset/blob/main/Pest_detection_model.ipynb)
+
