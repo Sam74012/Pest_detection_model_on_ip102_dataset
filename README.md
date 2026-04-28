@@ -1,6 +1,6 @@
 Pest Detection with EfficientNet-B0 (IP102 Dataset)
 
-This repository contains experiments on pest classification using the IP102 dataset. We fine-tuned a pretrained EfficientNet-B0 model (from Torchvision) to detect and classify 102 different pest species commonly affecting crops.
+This repository contains experiments on pest classification using the IP102 dataset. I fine-tuned a pretrained EfficientNet-B0 model (from Torchvision) to detect and classify 102 different pest species commonly affecting crops.
 
 🔹 Key Features
 
